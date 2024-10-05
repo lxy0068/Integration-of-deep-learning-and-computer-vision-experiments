@@ -1,5 +1,6 @@
 # Integration-of-deep-learning-and-computer-vision-experiments
 DLCV-小作业（2024年春）
+代码附在报告中
 
 线性回归模型
 ![image](https://github.com/user-attachments/assets/9513d3f5-dc89-47a3-b17d-08d0058a1677)
