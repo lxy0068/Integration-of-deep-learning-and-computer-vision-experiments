@@ -1,0 +1,101 @@
+\contentsline {section}{\numberline {实验一：}线性回归模型}{1}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{1}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{1}{}%
+\contentsline {subsection}{\numberline {三、}实验内容}{2}{}%
+\contentsline {subsection}{\numberline {四、}实验结果}{5}{}%
+\contentsline {section}{\numberline {实验二：}softmax回归模型}{6}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{6}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{6}{}%
+\contentsline {subsubsection}{\numberline {1、}Softmax回归模型}{6}{}%
+\contentsline {subsubsection}{\numberline {2、}损失函数}{7}{}%
+\contentsline {subsubsection}{\numberline {3、}优化方法}{7}{}%
+\contentsline {subsection}{\numberline {三、}实验内容}{7}{}%
+\contentsline {subsection}{\numberline {四、}实验结果}{11}{}%
+\contentsline {section}{\numberline {实验三：}多层感知机模型}{13}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{13}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{13}{}%
+\contentsline {subsection}{\numberline {三、}实验内容}{13}{}%
+\contentsline {subsubsection}{\numberline {1、}背景介绍}{13}{}%
+\contentsline {subsubsection}{\numberline {2、}数据准备}{14}{}%
+\contentsline {subsubsection}{\numberline {3、}模型构建}{14}{}%
+\contentsline {subsubsection}{\numberline {4、}模型训练}{15}{}%
+\contentsline {subsubsection}{\numberline {5、}模型评估}{15}{}%
+\contentsline {subsection}{\numberline {四、}实验结果}{15}{}%
+\contentsline {subsubsection}{\numberline {1、}结果展示}{15}{}%
+\contentsline {section}{\numberline {实验四：}Kaggle 房价预测}{18}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{18}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{18}{}%
+\contentsline {subsection}{\numberline {三、}模型描述}{18}{}%
+\contentsline {subsection}{\numberline {四、}模型假设}{19}{}%
+\contentsline {subsection}{\numberline {五、}优化目标}{19}{}%
+\contentsline {subsection}{\numberline {六、}数据预处理}{19}{}%
+\contentsline {subsection}{\numberline {七、}优化算法：Adam算法}{20}{}%
+\contentsline {subsubsection}{\numberline {1、}Adam算法原理}{20}{}%
+\contentsline {subsection}{\numberline {八、}交叉验证原理}{21}{}%
+\contentsline {subsubsection}{\numberline {1、}交叉验证的步骤}{21}{}%
+\contentsline {subsubsection}{\numberline {2、}数学表达}{22}{}%
+\contentsline {subsubsection}{\numberline {3、}交叉验证的优点}{22}{}%
+\contentsline {subsection}{\numberline {九、}性能度量：对数均方根误差（RMSLE）}{22}{}%
+\contentsline {subsubsection}{\numberline {1、}RMSLE的定义}{22}{}%
+\contentsline {subsubsection}{\numberline {2、}RMSLE的特性}{23}{}%
+\contentsline {subsubsection}{\numberline {3、}RMSLE与其他度量的对比}{23}{}%
+\contentsline {subsection}{\numberline {十、}实验过程}{23}{}%
+\contentsline {subsection}{\numberline {十一、}实验过程}{23}{}%
+\contentsline {subsubsection}{\numberline {1、}概述}{23}{}%
+\contentsline {subsubsection}{\numberline {2、}数据处理}{23}{}%
+\contentsline {subsubsection}{\numberline {3、}模型定义}{24}{}%
+\contentsline {subsubsection}{\numberline {4、}训练和验证}{24}{}%
+\contentsline {subsubsection}{\numberline {5、}测试和结果提交}{24}{}%
+\contentsline {subsubsection}{\numberline {6、}输出}{24}{}%
+\contentsline {subsection}{\numberline {十二、}结果展示}{24}{}%
+\contentsline {section}{\numberline {实验五：}边缘检测}{30}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{30}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{30}{}%
+\contentsline {subsubsection}{\numberline {1、}数学基础}{30}{}%
+\contentsline {subsubsection}{\numberline {2、}卷积核设计}{31}{}%
+\contentsline {subsection}{\numberline {三、}结果展示}{32}{}%
+\contentsline {section}{\numberline {实验六：}卷积输出形状的计算与验证}{34}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{34}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{34}{}%
+\contentsline {paragraph}{填充 \( p \)}{34}{}%
+\contentsline {paragraph}{步长 \( s \)}{34}{}%
+\contentsline {paragraph}{卷积核尺寸 \( k \)}{34}{}%
+\contentsline {subsection}{\numberline {三、}结果展示}{35}{}%
+\contentsline {section}{\numberline {实验七：}1*1 卷积核}{39}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{39}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{39}{}%
+\contentsline {subsection}{\numberline {三、}结果展示}{39}{}%
+\contentsline {subsection}{\numberline {四、}结果展示}{39}{}%
+\contentsline {section}{\numberline {实验八：}LeNet}{43}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{43}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{43}{}%
+\contentsline {subsubsection}{\numberline {1、}LeNet架构详解}{43}{}%
+\contentsline {paragraph}{卷积运算}{43}{}%
+\contentsline {paragraph}{特征映射}{44}{}%
+\contentsline {paragraph}{卷积层的作用}{44}{}%
+\contentsline {paragraph}{池化操作的数学表达}{44}{}%
+\contentsline {paragraph}{池化层的作用}{44}{}%
+\contentsline {paragraph}{数学表达}{45}{}%
+\contentsline {paragraph}{全连接层的作用}{45}{}%
+\contentsline {paragraph}{全连接层的参数量}{45}{}%
+\contentsline {paragraph}{Softmax函数的原理}{46}{}%
+\contentsline {paragraph}{应用于输出层}{46}{}%
+\contentsline {paragraph}{交叉熵损失函数}{46}{}%
+\contentsline {subsubsection}{\numberline {2、}卷积操作的数学表达}{46}{}%
+\contentsline {subsubsection}{\numberline {3、}参数的影响}{47}{}%
+\contentsline {subsubsection}{\numberline {4、}实验设计}{47}{}%
+\contentsline {subsection}{\numberline {三、}结果展示}{47}{}%
+\contentsline {subsection}{\numberline {四、}实验结论}{52}{}%
+\contentsline {section}{\numberline {实验九：}AlexNet}{53}{}%
+\contentsline {subsection}{\numberline {一、}实验目的}{53}{}%
+\contentsline {subsection}{\numberline {二、}实验原理}{53}{}%
+\contentsline {subsubsection}{\numberline {1、}网络结构}{53}{}%
+\contentsline {subsubsection}{\numberline {2、}前向传播和特征提取}{53}{}%
+\contentsline {subsubsection}{\numberline {3、}反向传播和参数优化}{55}{}%
+\contentsline {subsubsection}{\numberline {4、}实验设置和优化}{56}{}%
+\contentsline {subsection}{\numberline {三、}实验过程}{57}{}%
+\contentsline {subsubsection}{\numberline {1、}数据预处理}{57}{}%
+\contentsline {subsubsection}{\numberline {2、}模型构建}{57}{}%
+\contentsline {subsubsection}{\numberline {3、}训练与评估}{58}{}%
+\contentsline {subsection}{\numberline {四、}结果展示}{58}{}%
+\contentsline {subsection}{\numberline {五、}实验结论}{61}{}%
